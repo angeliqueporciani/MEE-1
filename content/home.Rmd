@@ -1,5 +1,5 @@
 ---
-title: "home.Rmd"
+title: "The MEE Seminar"
 output: html_document
 ---
 
