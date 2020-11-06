@@ -40,7 +40,7 @@ enableEmoji = true
     weight = 7
     
 [[redirects]]
-    from="/"
+    from="/program"
     to="/home"
     status=302
     
