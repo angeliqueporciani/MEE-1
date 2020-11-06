@@ -1,0 +1,80 @@
+---
+title: Edition 2016
+author: ~
+date: '2016-06-06'
+slug: edition-2016
+categories: []
+tags: []
+---
+
+# Programme 2016
+
+Le MEE se tiendra les 6 et 7 juin 2016 à l’amphitéâtre Charles Flahaut de l’Institut de Botanique de Montpellier.
+
+## Lundi 6 juin :
+
+8h30 – 9h00 - Accueil des participants
+
+9h00-10h00 - Cindy Gidoin (CREEC, Montpellier) - Range expansion framework to study evolutionary dynamics of cancer.
+
+10h00-10h25 - Cédric Perret (MIVEGEC, Montpellier) - Impact of the cancer on natural communities : ecological and evolutionnary analysis of a modified prey-predator model.
+
+10h25-10h55 - Pause café
+
+10h55-11h20 - John Burley (ISEM, Montpellier) - Effects of tissue architecture on the somatic evolution of cancer – implications for clinical forecasting.
+
+11h20-11h45 - Coline Canonne (Tour du Valat) - Influence of wintering strategy on lifetime reproductive success of greater flamingos in Camargue.
+
+11h45-13h00 - Repas
+
+13h00-14h00 - Violaine Llaurens (MNHN, Paris) - Evolution of dominance in loci under balancing selection: from models to data.
+
+14h00-14h25 - Thibaut Latrille (LBBE, Lyon) - The red queen dynamic in the kingdom of recombination.
+
+14h25-14h50 - Théo Gaboriau (MARBEC, Montpellier) - The influence of plate tectonics on biodiversity gradients: A General Simulation Model of Macroevolution (GSM).
+
+14h50-15h10 - Pause café
+
+15h10-16h10 - Vincent Calcagno (INRA, Nice) - ESS, fin de l’histoire? Les routes de la diversification dans les modèles écologiques d’interaction entre espèces.
+
+## Mardi 7 juin:
+
+8h30-9h00 - Accueil des participants
+
+9h00-10h00 - Christelle Fraïsse (IST, Vienne, Autriche) - Understanding species formation: a phenotypic approach.
+
+10h00-10h25 - Valentin Thouzeau (MNHN, Paris) - Reconstructing demographic and cultural history of human populations from genetic and linguistic polymorphism data.
+
+10h25-10h55 - Pause café
+
+10h55-11h20 - Marjorie Haond (ISA, Nice / BioSP, Avignon) - Habitat quality and the velocity of spatial population expansion.
+
+11h20-11h45 - Claire Godineau (ISEM, Montpellier) - Effects of assortative mating for flowering on evolutionary potential in a context of climate change.
+
+11h45-13h00 - Repas
+
+13h00-14h00 - Céline Casenave (INRA, Montpellier) - Modelling of cyanobacteria blooms dynamics: minimal vs complex dynamic models.
+
+14h00-14h25 - Pierre Quévreux (iEES, Paris) - Nutrient recycling in complex food webs.
+
+14h25-14h50 - Rémi Patin (CEFE, Montpellier) - Decision-making on space use negates dilution effect on vigilance.
+
+14h50-15h10 - Pause Café
+
+15h10-16h10 - Sébastien Dutreuil (Université Paris 1 Panthéon-Sorbonne, IHPST) - A quoi servent les modèles abstraits ou décrivant des situations fictives ? Quelques leçons du modèle Daisyworld
+
+16h10-17h30 - Atelier
+
+# Organisateurs 2016
+
+**Yoann Anciaux** : doctorant en deuxième année à l’Institut des Sciences de l’Evolution de Montpellier, sous la direction de Guillaume Martin et d’Ophélie Ronce, je travaille sur la modélisation de trajectoire adaptative chez des populations asexuées dans le cas particulier des « Evolutionary Rescue ».
+
+**Thomas Aubier** : doctorant en première année, sous la direction de Mathieu Joron (CEFE, Montpellier) et de Marianne Elias (ISYEB, Paris), je travaille sur la nature du mimétisme et sur l’effet de cette interaction sur la spéciation et sur la diversification d’un clade.
+
+**Alain Danet**: doctorant en deuxième année à l’ISEM et l’AMAP. Ma thèse est co-supervisée par Fabien Anthelme et Sonia Kéfi. Je travaille sur les interactions entre les plantes dans milieux stressants (en Espagne et en Bolivie), en particulier, les relations entre plantes adultes et plantules. Mon travail combine approches expérimentales et modélisation.
+
+**Marion Jourdan** : doctorante en première année, sous la direction de Stephan Hättenschwiler et Xavier Morin (CEFE, Montpellier), je travaille sur le rôle de la diversité sur la stabilité du fonctionnement des écosystèmes forestiers en contexte de changement climatique.
+
+**Thomas Koffel** : doctorant en deuxième année sous les directions de Tanguy Daufresne (Eco&Sols, Montpellier) et de Nicolas Loeuille (IEES, Paris), je travaille sur les adaptations des plantes sauvages et cultivées et leurs conséquences sur le fonctionnement des (agro)écosystèmes.
+
+**Marjolaine Rousselle**: doctorante en première année à l’ISEM (Montpellier), encadrée par Nicolas Galtier et Benoit Nabholz. Je travaille sur l’adaptation à l’échelle moléculaire, et en particulier sur l’estimation des taux de substitution adaptatifs et des effets sélectifs des mutations chez les animaux.
