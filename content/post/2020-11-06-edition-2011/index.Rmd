@@ -1,0 +1,69 @@
+---
+title: Edition 2011
+author: ~
+date: '2011-06-08'
+slug: edition-2011
+categories: []
+tags: []
+---
+# Programme 2011
+
+## June 8th
+
+9h30 - Breakfast
+
+9h50 - Welcome address by the organizers
+
+10h–11h - Denis Roze, Incorporating drift and population structure into multilocus models
+
+11h15–12h15 - Thomas Broquet , Using coancestry modeling and individual-based simulations to explore the apparently chaotic patterns of genetic structure frequently observed in marine species,
+
+12h30–13h45 - Lunch
+
+14h–15h - Vincent Devictor , From theory to applications: scientific, epistemological and societal issues
+
+The rest of the afternoon is free for discussions between the participants
+
+## June 9th
+
+9h–10h - Sébastien Lion, Evolution in structured populations: modelling genetic and demographic structuring.
+
+10h15–11h15 - Richard Gomulkiewicz , Evolution in stage-structured populations.
+
+11h30–12h30 - Session 1 : Metapopulations
+
+12h45–13h45 - Lunch
+
+14h–15h - Sonia Kéfi, To eat and not to eat. The structure of ecological networks.
+
+15h15–16h30 - Session 2 : Networks & interactions
+
+16h45–17h30 - Group discussions
+
+## June 10th
+
+9h–10h - Breakfast and posters presentations
+
+10h–11h - Guillaume Martin, Adaptation and Demography
+
+11h–12h - Session 3 : Demography and life histories
+
+12h15–13h15 - Lunch
+
+13h30–15h - Session 4 : Evolution & conservation
+
+16h–17h30 - Closing address and summary
+
+17h30–… Discussions and drinks
+
+# Organisateurs 2011
+
+**Ronan Becheler** – doctorant (1ère année), au Laboratoire Environnement Profond (IFREMER, Brest), sous la direction de Sophie Arnaud-Haond. J’étudie l’influence de la diversité intra-spécifique (richesse génotypique et diversité génétique) sur la stabilité démographique des populations. Approches expérimentales et de terrain, ainsi que purement théoriques seront utilisées.
+
+**François Blanquart** – doctorant (2e année) au CEFE, sous la direction de Sylvain Gandon. Je m’intéresse à l’adaptation dans un environnement temporellement variable et spatialement hétérogène.
+
+**Benoit Goussen** – doctorant (1e année) au Laboratoire de Radioécologie et d’Ecotoxicologie (IRSN) et à l’unité Modèles pour l’écotoxicologie et la toxicologie (INERIS). Je m’intéresse à l’étude des phénomènes d’adaptation dans la dynamique de populations de Caenorhabditis elegans via l’utilisation d’une approche bioénergétique. Ce projet mêle expérimentations et modélisation.
+
+**Etienne Loire** – post-doctorant à la station biologique de Roscoff (équipe Biologie Évolutive et Diversité Marine) et à l’ISEM (équipe Génomique Intégrative). Je m’intéresse à l’interaction entre isolement reproducteur et adaptation locale dans des populations structurée.
+
+**Timothée Poisot** – doctorant (troisième année) à l’ISEM, sous la direction de Michael Hochberg, dans l’équipe « Ecologie et évolution des communautés ». Je m’intéresse à l’évolution de la spécificité dans les systèmes en coévolution. Mon approche utilise un mélange de travail expérimental et de terrain, et des modèles d’évolution de communautés prenant en compte de manière explicite la dynamique des ressources et des populations.
