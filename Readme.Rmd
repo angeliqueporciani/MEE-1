@@ -71,3 +71,4 @@ name = "Editions"
     weight = 1
 ```
 
+* We deployed the site with Netlify
