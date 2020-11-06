@@ -1,13 +1,21 @@
 Package: MEE
-Title: What the Package Does (One Line, Title Case)
+Title: Website of the MEE seminar
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    c(person(given = "Camille",
+           family = "Girard-Tercieux",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "camillegirardtercieux@gmail.com"),
+      person(given = "Amaïa",
+           family = "Lamarins",
+           role = c("aut", "cre")),
+      person(given = "François",
+           family = "Martin",
+           role = c("aut", "cre")),
+      person(given = "Eliott",
+           family = "Cirad",
+           role = c("aut", "cre")))
+Description: Build A New Site For The MEE Seminar
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
@@ -15,4 +23,9 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
-    leaflet
+    blogdown,
+    devtools,
+    leaflet,
+    magrittr
+    
+    
