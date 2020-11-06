@@ -1,0 +1,69 @@
+---
+title: Edition 2013
+author: ~
+date: '2013-05-22'
+slug: edition-2013
+categories: []
+tags: []
+---
+
+# Programme 2013
+
+## Journée du mercredi 22 mai :
+
+09h30 –10h00 - Accueil – Petit déjeuner
+
+10h00 –10h20 - C. Fraïsse - The genetics of speciation: Are complex incompatibilities easier to evolve ?
+
+10h20 –10h40 - A.-S. Bonnet-Lebrun - Phylogenetic tree shape (tempo and mode of diversification) in spatially-explicit, individual-based neutral models
+
+Pause café
+
+11h00 –12h00 - N. Loeuille - Feedbacks négatifs locaux et évolution dans les métacommunautés: implication pour l’émergence et le maintien de la diversité.
+
+12h00 –12h20 - R. Fay - Age-related improvement of breeding success in the Greater flamingo: consideration of individual heterogeneity
+
+Pause déjeuner
+
+14h00 –15h00 - F. Rousset - La génétique évolutive vue à travers la fonction de fitness.
+
+15h00 –15h20 - F. Grenier - Optimal resource allocation to the canopy versus soil seed-bank in a non-resprouting plant species under different fire regimes
+
+15h20 –15h40 - T. Perrot - Evolution of polymorphism of dispersal in fragmented habitat
+
+Pause café
+
+16h00 –17h00 - F. Massol - Evolution de la dispersion en environnement hétérogène et changeant.
+ 
+
+## Journée du jeudi 23 mai :
+
+09h00 –09h30 - Petit déjeuner
+
+09h30 –09h50 - L. Hertzog - Vulnerability of coprophagous beetles to global change.
+
+9h50 – 10h50 - A. Duputie - Evolution de traits d’histoire de vie : conséquences sur les changements d’aires de répartition
+
+Pause café
+
+11h10 – 11h30 - L. Riotte-Lambert - Territories without territoriality
+
+11h30 – 11h50 - C. Malouines - Evolution des parasitoïdes: haplodiploïdie et effet Allee
+
+11h50 –12h50 - F.-X. de Chaume Montcharmont - Règles de décision lors du choix du partenaire : avons-nous réellement le choix ?
+
+Pause déjeuner
+
+14h30 –15h30 - T. Bataillon - Mutations et leurs effets sur la valeur sélective : comment confronter modèles théoriques et données empiriques?
+
+15h30 –15h50 - F. Fyon - Patterns of Allele-Specific Expression : an Ongoing Genetic Conflict ?
+
+Pause café
+
+16h10 –17h10 - P. Huneman - Expliquer et modéliser en écologie: hypothèses, échelles et complexité.
+
+# Organisateurs 2013
+
+**Loïc Etienne**, doctorant en deuxième année à l’Institut des Sciences de l’Évolution de Montpellier, sous la direction de François Rousset et Bernard Godelle, je travaille sur l’évolution des stratégies de choix de partenaire sexuel.
+
+**Fabien Laroche**, doctorant en deuxième année au Centre d’Écologie Fonctionnelle et Évolutive, sous la direction de Philippe Jarne et Francois Massol, je travaille sur les patrons de diversité biologique sous dispersion limitée.
