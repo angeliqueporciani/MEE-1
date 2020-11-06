@@ -1,0 +1,39 @@
+---
+title: "Readme"
+output: html_document
+---
+
+<link href="/rmarkdown-libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
+
+
+<p>In order to build the site, you should install some packages : blogdown, leaflets and magrittr.
+You should also install Hugo.</p>
+<pre class="r"><code>devtools::install_deps(upgrade=&quot;never&quot;)
+blogdown::install_hugo()</code></pre>
+<p>The you need these commands to build the site, add contents and build new posts :</p>
+<pre class="r"><code>blogdown::new_site()
+
+blogdown::new_content(&quot;content.Rmd&quot;)
+
+blogdown::new_post(&quot;Title&quot;, ext = &#39;Rmd&#39;)</code></pre>
+<p>When adding a new content, in the config.toml file you should add</p>
+<pre class="r"><code>[[menu.main]]
+    name = &quot;New_content&quot;
+    url = &quot;/new_content/&quot;</code></pre>
+<p>We modified some things :</p>
+<ul>
+<li><p>Added an images folder in static and put our icon in it</p></li>
+<li><p>The logo in config.toml</p></li>
+</ul>
+<pre class="r"><code>    url = &quot;Image_MEE.png&quot;</code></pre>
+<ul>
+<li>The icon in config.toml</li>
+</ul>
+<pre class="r"><code># path to the favicon, under &quot;static&quot;
+    favicon = &quot;Image_MEE.png&quot;</code></pre>
+<ul>
+<li>The path of the posts folder in config.toml</li>
+</ul>
+<pre class="r"><code>name = &quot;Editions&quot;
+    url = &quot;/post&quot; </code></pre>
