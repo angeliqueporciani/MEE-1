@@ -61,7 +61,7 @@ enableEmoji = true
     alt = "Logo"
     
     [[redirects]]
-    from = ""
+    from = "https://meeseminar.netlify.app/"
     to = "https://meeseminar.netlify.app/home/"
     status = 301 
 
