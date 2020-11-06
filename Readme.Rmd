@@ -1,6 +1,8 @@
 ---
 title: "Readme"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -60,4 +62,12 @@ name = "Editions"
     url = "/post" 
 ```
 
+* The order of the different contents
+
+```{r}
+[[menu.main]]
+    name = "New_content"
+    url = "/new_content/"
+    weight = 1
+```
 
