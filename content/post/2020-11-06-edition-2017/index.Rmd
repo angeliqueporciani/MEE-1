@@ -1,0 +1,95 @@
+---
+title: Edition 2017
+author: ~
+date: '2017-05-30'
+slug: edition-2017
+categories: []
+tags: []
+---
+
+# Programme 2017
+
+Le MEE se tiendra les 30 et 31 mai 2017 à l’amphitéâtre Charles Flahaut de l’Institut de Botanique de Montpellier.
+
+## Mardi 30 mai :
+
+8h30 – 9h00 : Accueil (Viennoiseries & Cafés)
+
+9h00 – 9h45 : Chercheur invité : J.B. André (ENS, IEC, Paris) : Modeling the evolution of cooperation and fairness
+
+9h50 – 10h10 : L.-P. Nguyen : On the difficult evolutionary transition from the free-living lifestyle to obligate symbiosis
+
+10h15 – 10h35 : G. Doulcier : Modeling Nested Darwinian Populations
+
+10h40 – 11h00 : Cafés
+
+11h00 – 11h20 : L. Rimbaud : Assessing the performance of landscape-based strategies to deploy major-gene resistance
+
+11h25 – 11h45 : M. Sofonea : Con Ebola Virus evolve to be less virulent in humans ?
+
+12h00 – 13h30 : Repas
+
+13h30 – 14h15 : Chercheur invité : S. Boitard (GenPhySE, Toulouse): Accounting for Linkage Disequilibrium in genome scans for selection without individual genotypes: the local score approach
+
+14h20 – 14h40 : M. Vérin : Host-parasite coevolution promotes the evolution of seed banking as a bet hedging strategy
+
+14h45 – 15h05 : A. Picot : The evolution of siderophore production as a competitive trait
+
+15h10 – 15h30 : Cafés
+
+15h30 – 15h50 : J. Rode : Differential equation system of a theoretical ecosystem
+
+15h55 – 16h15 : C. Carpentier & J. Centanni : Integrated modelling of ecosystems – theoretical approach and applications
+
+16h20 – 17h00 : Chercheur invité : C. Gaucherel (AMAP, Montpellier): Integrated modelling and development of an ecosystem
+
+## Mercredi 31 mai
+
+8h30 – 9h00 : Accueil (Viennoiseries & Cafés)
+
+9h00 – 9h00 : Chercheur invité : S. Kéfi (ISEM, Montpellier): Why and how does the diversity of interactions matter?
+
+9h50 – 10h10 : P. Quévreux : Effects of relations between green and brown food webs on food web stability and ecosystem functioning
+
+10h15 – 10h35 : T. Koffel : A theoretical study of facilitative succession and ecosystem development by nitrogen fixers
+
+10h40 – 11h00 : Cafés
+
+11h00 – 11h20 : P. Volte : Use of power tests before establishing a protocol to determine the quality of future occupancy results
+
+11h25 – 11h45 : N. Bertoldi : Stratégies évolutivement stables et équilibres de Nash : deux exemples d’un seul et même principe ?
+
+12h00 – 13h30 : Repas
+
+13h30 – 14h15 :  Chercheur invité : Y.-J.Shin (MARBEC, Montpellier) : Modelling the combined effects of fishing and environmental changes on marine ecosystems
+
+14h20 – 14h40 : T. Aubier : Speciation along ecological gradients and the costs of choosiness
+
+14h45 – 15h05 : T. Brom : Maintenance of gametophytic self-incompatibility system in spatially structured population
+
+15h10 – 15h30 : Cafés
+
+15h30 – 15h50 : O. Cotto : A dynamic eco-evolutionary model predicts slow response to alpine plants to climate warming
+
+15h55 – 16h15 : N. Harmand : An adaptative fitness landscape model across environments
+
+16h20 – 17h00 : Chercheur invité : G. Martin (ISEM, Montpellier) : Fisher’s geometrical model emerges as a property of complex integrated phenotypic networks
+
+# Organisateurs 2017
+
+**Marianne Bernard** : PhD student at Centre d’Ecologie Fonctionnelle et Evolutive (CEFE) in the FORECAST team. I’m supervised by  Sonia Saïd, Vincent Boulanger and Xavier Morin.
+
+Deer populations dramatically increased over the last decades in Europe. By their selective browsing, they affect some tree species more than others. Climate change also affects tree species differently. My aim is to understand the crossed effects of deer browsing and climate variability on mixed silver ir – Norway spruce – beech stands, using long-term experimental designs, field observations and modelling.
+
+**Hugo Gruson**
+
+**Matthias Grenie**
+
+**Valentin Hivert** : PhD student at Centre de Biologie pour la Gestion des Populations (CBGP). I’m supervised by  Renaud Vitalis and Mathieu Gautier.
+
+The recent advent of high throughput sequencing and genotyping technologies (NGS) enables the comparison of patterns of polymorphisms at a very large number of markers, which makes it possible to characterize genomic regions involved in the adaptation of organisms to their environment. However, the current statistical approaches to identify genomic signatures of selection are limited by over-simplified demo-genetic models. Furthermore, these methods generally neglect the information on linkage disequilibrium (LD) among genetic markers. The main objective of my PhD is therefore to develop new and improved Bayesian models to detect signatures of selection.
+These new models will be directly applied to NGS data from the European BiodivERsA EXOTIC project, which aims to characterize the genetic basis of adaptation during the invasion of a flagship species: the harlequin ladybird Harmonia axyridis.
+
+**Maxime Dubart** : PhP student at Centre d’Ecologie Fonctionnelle et Evolutive (CEFE), i’m supervised by Patrice David and Philippe Jarne.
+
+I work on freshwater snails metacommunities in lesser antilles (Martinique and Guadeloupe). Using two long-term datasets, the main aim of this work is to quantify population dynamics of each species with respect to environment and interspecific interactions.
