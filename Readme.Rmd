@@ -71,4 +71,4 @@ name = "Editions"
     weight = 1
 ```
 
-* We deployed the site with Netlify
+* We deployed the site with Netlify : https://meeseminar.netlify.app/home/
