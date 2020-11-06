@@ -38,11 +38,7 @@ enableEmoji = true
     name = "Contact"
     url = "/contact/"
     weight = 7
-    
-[[redirects]]
-    from="/program"
-    to="/home"
-    status=302
+
     
 [params]
     description = "A website built through Hugo and blogdown."
