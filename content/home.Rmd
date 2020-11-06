@@ -8,14 +8,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-The MEE (Models in Ecology and Evolution) seminar is organized by Ph.D. students and post-docs and is targeted at young researchers (M.Sc, Ph.D. students, post-docs...) interested in theoretical approaches in Ecology and Evolution, with three major objectives:
+:sunflower: :octopus: The MEE (Models in Ecology and Evolution) seminar is organized by Ph.D. students and post-docs and is targeted at young researchers (M.Sc, Ph.D. students, post-docs...:mortar_board:) interested in theoretical approaches in Ecology and Evolution, with three major objectives:
 
-* giving an overview of current modeling techniques used in ecology and evolution research: which tools for which questions?
-* create a space for exchange between different methodological approaches to identify the similarities and complementarities.
-* discuss the interest of modeling products for researchers in evolutionary ecology as for the general public.
+* :dragon_face: giving an overview of current modeling techniques used in ecology and evolution research: which tools for which questions?
+* :bug: create a space for exchange between different methodological approaches to identify the similarities and complementarities.
+* :cactus: discuss the interest of modeling products for researchers in evolutionary ecology as for the general public.
 
 The format of the seminar is designed to promote exchanges as much as possible and consists of a series of oral presentations by visiting researchers and students.
 
-Registration is free, and this year the seminar will be online.
+:dollar: Registration is free, and this year the seminar will be online.
 
-Stay tuned!
+:tada: Stay tuned!
