@@ -1,5 +1,5 @@
 ---
-title: "organizers"
+title: "Organizers"
 output: html_document
 ---
 
@@ -7,7 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Organizers
 
 **Josselin CLO**: I am a Ph.D. student specialized in evolution of plants mating system, with a focus on predominantly selfing species. I’m currently working at AGAP laboratory (Genetic Amelioration and Adaptation of Plants), supervised by [Dr. Joëlle Ronfort](https://www.researchgate.net/profile/Joelle_Ronfort) and [Dr. Laurène Gay](https://sites.google.com/site/evolutionarybiologylaurenegay/home). During my Ph.D., I am studying the emergence of heterosis and outbreeding depression in selfing species, and the potential role of rare outcrossing events on the evolutionary dynamics of predominantly selfing populations, both by experimental and theoretical investigations.
 
