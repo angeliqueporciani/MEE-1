@@ -1,0 +1,78 @@
+---
+title: Edition 2015
+author: ~
+date: '2015-06-02'
+slug: edition-2015
+categories: []
+tags: []
+---
+
+# Programme 2015
+
+## Mardi 2 juin
+
+08h30 – 09h00: Accueil et petit-déjeuner
+
+09h00 – 10h00 : Sophie Bertrand – “Quels modèles pour une écologie marine spatialisée ? Exemples d’applications dans l’écosystème côtier péruvien”
+
+10h00 – 10h30 : Maria Mateo – “Consequences of adaptive phenotypic plasticity and local adaptation in the European eel: assessing population-level responses to anthropogenic pressures”
+
+10h30 – 11h00 : Pause café
+
+11h00 – 11h30 : Yoann Anciaux – “Eco-evolutionary dynamics of evolutionary rescue in large asexuals populations”
+
+11h30 – 12h00 : Tazzio Tissot – “The guardians of inherited oncogenic vulnerabilities”
+
+12h00 – 13h30 : Déjeuner
+
+13h30 – 14h30 : Benjamin Roche – “Adaptive evolution and environmental durability jointly structure phylodynamic patterns in avian influenza viruses”
+
+14h30 – 15h00 : Quentin Griette – “Virulence evolution at the front line of spreading epidemics”
+
+15h00 – 15h30 : Benoît Randuineau – “Multi-serotype SIR model for the modelling of dengue vaccination”
+
+15h30 – 16h00 : Pause café
+
+16h00 – 17h00 : Florence Débarre – “Evolution de comportements sociaux en population structurée”
+
+17h00 – 17h30 : Valentin Hivert – “Inferring dispersal parameters from Rad-Sequencing Data”
+
+Soirée: apéro participatif à l’institut de botanique
+
+## Mercredi 3 juin
+
+08h30 – 09h00: Accueil et petit-déjeuner
+
+09h00 – 10h00 : Elisa Thebault – “Structure and stability of ecological networks with mutualistic and antagonistic interactions”
+
+10h00 – 10h30 : Arnaud Sentis – “Ecological consequences of temperature-induced change in body size: species survival and population dynamics under global change”
+
+10h30 – 11h00 : Pause café
+
+11h00 – 11h30 : Mircéa Sofonea – “Nested dynamics with partial cotransmission: a general model for multiple infections”
+
+11h30 – 12h00 : Rob Noble – “Within-host immune selection shapes the diversity of malaria virulence genes”
+
+12h00 – 13h30 : Déjeuner
+
+13h30 – 14h30 : Nicolas Bez – titre à venir
+
+14h30 – 15h00 : Julie Louvrier – “Modeling the recolonization of a large carnivore using opportunistic data.”
+
+15h00 – 15h30 : Julien Collet – “In search of a good searching model: Levy-Walks and information use in moving animals.”
+
+15h30 – 16h00 : Pause café
+
+16h00 – 17h00 : Hendrik Davi – “Réflexions sur les modèles et théories en l’écologie: revisiter les idées Levins en utilisant la notion de concept développé par Gödel”
+
+# Organisateurs 2015
+
+Nous sommes quatre doctorants du Centre d’Écologie Fonctionnelle et Évolutive (CEFE) à Montpellier.
+
+**Anne-Sophie Bonnet-Lebrun**, doctorante en 1ère année, sous la direction d’Andrea Manica (Université de Cambridge) et Ana Rodrigues (CEFE), je travaille sur le role des différences individuelles dans la structuration de la niche des espèces, notamment chez les oiseaux marins.
+
+**Frédéric Fyon** : doctorant en 2ème année, sous la direction de Thomas Lenormand (CEFE), je travaille sur la course aux armements chez les promoteurs génétiques et l’évolution de l’équité d’expression génétique chez les diploïdes.
+
+**Sara Kada** : doctorante en 2ème année sous la direction de Thierry Boulinier (Centre d’Écologie Fonctionnelle et Évolutive, CEFE) je m’intéresse aux effets de la dispersion en fonction de la structuration en âge des tiques sur les changements de distribution du vecteur et sur la propagation des infections associées aux tiques.
+
+**Noémie Harmand** : doctorante en 2ème année, sous la direction de Thomas Lenormand (CEFE) et Guillaume Martin (ISEM), je travaille sur l’adaptation et le rôle des duplications en m’appuyant sur de l’évolution expérimentale de microorganismes (E.coli et S. cerevisiae) en milieux antibiotiques.
