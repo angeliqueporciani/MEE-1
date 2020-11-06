@@ -12,7 +12,7 @@ Séminaire pour doctorants « Modèles en écologie évolutive » 31 mai – 2 j
 
 ## 31 mai – Session pratique
 
-09h30-09h45	- Accueil
+:clock4: 09h30-09h45	- Accueil
 
 09h45-10h00	- Introduction - Les gentils organisateurs
 
