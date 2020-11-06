@@ -7,4 +7,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Pour toute question, veuillez nous contacter à l’adresse suivante mee.montpellier@gmail.com
+For any queries, you can contact us at mee.montpellier@gmail.com
+
+
+You can also find us here :
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(magrittr)
+leaflet::leaflet() %>%
+  leaflet::addTiles() %>%   # add default OpenStreetMap map tiles
+  leaflet::addMarkers(lng=3.866347, lat=43.632038, popup="ISEM")
+```

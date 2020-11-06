@@ -19,13 +19,3 @@ The format of the seminar is designed to promote exchanges as much as possible a
 Registration is free, and this year the seminar will be online.
 
 Stay tuned!
-
-
-
-You can find us here :
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-library(magrittr)
-leaflet::leaflet() %>%
-  leaflet::addTiles() %>%   # add default OpenStreetMap map tiles
-  leaflet::addMarkers(lng=3.866347, lat=43.632038, popup="ISEM")
-```
