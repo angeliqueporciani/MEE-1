@@ -1,0 +1,78 @@
+---
+title: Edition 2014
+author: ~
+date: '2014-06-03'
+slug: edition-2014
+categories: []
+tags: []
+---
+
+# Programme 2014
+
+## Mardi 3 juin
+
+9h00 – 9h30 : Acceuil / Petit-déjeuner
+
+9h30 – 10h30 : Robin Aguilée, Effect of pollen dispersal on adaptation in a heterogeneous, shifting environment
+
+10h30 – 11h00 : Elma Nassar, Phenotypic adaptation in the moving optimum model: a poissonian stochastic equation
+
+11h00 – 11h15 : Pause Café
+
+11h15 – 11h45 : Aurore Picot, Effect of ontogenetic change of role on the eco-evolutionary dynamics of communities
+
+11h45 – 12h15 : Romain Feron, Including psychology of social learning in a model of cultural evolution
+
+12h15 – 14h00 : Déjeuner
+
+14h00 – 15h00 : Sylvain Glémin, Adaptation and maladaptation in self-fertilizing populations
+
+15h00 – 15h30 : Fanny Gascuel, Ecology affects the branching tempo and topology of phylogenetic trees
+
+15h30 – 15h45 : Pause Café
+
+15h45 – 16h45 : Sylvain Billiard, Paradoxes et modélisation : l’exemple du maintien de l’androdioécie
+
+16h45 – 17h15 : Thomas Aubier, Ecological speciation : does male choice matter ?
+
+Soirée : verre en ville (rendez-vous devant la fontaine des Trois Grâces, sur la place de la Comédie)
+
+ 
+
+## Mercredi 4 Juin
+
+9h00 – 9h30 : Acceuil / Petit-déjeuner
+
+9h30 – 10h00 : Pierre Quévreux, Importance of nutrient recycling in food web stability
+
+10h00 – 11h00 : Isabelle Chuine, Fitness consequences of phenological plasticity of temperate tree species
+
+11h00 – 11h15 : Pause Café
+
+11h15 – 11h45 : Bérangère Leys, Modeling approach of Mediterranean vegetation and fire behaviour: a spatial heterogeneity
+
+11h45 – 12h15 : Adama Faye, Paleoclimatic modeling and full chloroplast genomes: preliminary results into the phylogeography of the African rainforest palm genus Podococcus
+
+12h15 – 14h00 : Déjeuner
+
+14h00 – 14h30 : Florian Claeys, Mixture of inhomogeneous matrix models for species-rich ecosystems
+
+14h30 – 15h00 : Thibault Latrille, Robust estimation of diversity: steer clear of rare species
+
+15h00 – 16h00 : Simon Benhamou, Models in movement ecology
+
+16h00 – 16h15 : Pause Café
+
+16h15 – 17h30 : Table ronde
+
+# Organisateurs 2014
+
+**Frédéric Fyon** : doctorant en première année au Centre d’Écologie Fonctionnelle et Évolutive (CEFE), sous la direction de Thomas Lenormand, je travaille sur la course aux armements chez les promoteurs génétiques et l’évolution de l’équité d’expression génétique chez les diploïdes.
+
+**Noémie Harmand** : doctorante en première année au CEFE, sous la direction de Thomas Lenormand (CEFE) et Guillaume Martin (ISEM), je travaille sur l’adaptation et le rôle des duplications en m’appuyant sur de l’évolution expérimentale de microorganismes (E.coli et S. cerevisiae) en milieux antibiotiques.
+
+**Anne-Sophie Bonnet-Lebrun**, en stage au CEFE, sous la direction d’Olivier Gimenez, je travaille en ce moment sur la distribution de l’ours brun en Grèce.
+
+**Loïc Etienne** : doctorant en troisième année à l’Institut des Sciences de l’Évolution de Montpellier (ISEM), sous la direction de François Rousset et Bernard Godelle, je travaille sur l’évolution des stratégies de choix de partenaire sexuel.
+
+**Fabien Laroche** : doctorant en troisième année au CEFE, sous la direction de Philippe Jarne et Francois Massol, je travaille sur les patrons de diversité biologique sous dispersion limitée.
