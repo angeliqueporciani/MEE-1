@@ -59,9 +59,3 @@ enableEmoji = true
     width = 50
     height = 50
     alt = "Logo"
-    
-    [[redirects]]
-    from = "https://meeseminar.netlify.app/"
-    to = "https://meeseminar.netlify.app/home/"
-    status = 301 
-
