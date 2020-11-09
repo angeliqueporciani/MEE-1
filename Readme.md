@@ -1,0 +1,77 @@
+---
+title: "Readme"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+
+
+In order to build the site, you should install some packages : blogdown, leaflets and magrittr.
+You should also install Hugo.
+
+
+```r
+devtools::install_deps(upgrade="never")
+blogdown::install_hugo()
+```
+
+
+The you need these commands to build the site, add contents and build new posts :
+
+
+```r
+blogdown::new_site()
+
+blogdown::new_content("content.Rmd")
+
+blogdown::new_post("Title", ext = 'Rmd')
+```
+When adding a new content, in the config.toml file you should add
+
+
+```r
+[[menu.main]]
+    name = "New_content"
+    url = "/new_content/"
+```
+
+
+We modified some things :
+
+* Added an images folder in static and put our icon in it
+
+* The logo in config.toml
+
+
+```r
+    url = "Image_MEE.png"
+```
+
+* The icon in config.toml
+
+
+```r
+# path to the favicon, under "static"
+    favicon = "Image_MEE.png"
+```
+
+* The path of the posts folder in config.toml
+
+
+```r
+name = "Editions"
+    url = "/post" 
+```
+
+* The order of the different contents
+
+
+```r
+[[menu.main]]
+    name = "New_content"
+    url = "/new_content/"
+    weight = 1
+```
+
+* We deployed the site with Netlify : https://meeseminar.netlify.app/home/
