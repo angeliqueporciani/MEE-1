@@ -12,32 +12,32 @@ enableEmoji = true
 
 [[menu.main]]
     name = "Home"
-    url = "/home/"
+    url = "/about/"
     weight = 1
 [[menu.main]]
     name = "Speakers"
-    url = "/speakers/"
+    url = "/invited/"
     weight = 3
 [[menu.main]]
-    name = "Program"
-    url = "/program/"
+    name = "Programme"
+    url = "/programme/"
     weight = 2
 [[menu.main]]
-    name = "Registration"
-    url = "/registration/"
+    name = "Inscription"
+    url = "/Inscription/"
     weight = 5
 [[menu.main]]
-    name = "Organizers"
-    url = "/organizers/"
-    weight = 4
+    name = "Organisateurs"
+    url = "/organisateurs/"
+    weight = 6
 [[menu.main]]
     name = "Editions"
     url = "/post"
-    weight = 6
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
     weight = 7
+[[menu.main]]
+    name = "Infos Pratiques"
+    url = "/infopratique/"
+    weight = 4
 
     
 [params]
