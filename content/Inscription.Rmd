@@ -7,7 +7,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-L'inscription est gratuite mais **obligatoire** via le lien : https://evento.renater.fr/survey/11e-edition-mee-mode...-6jml76qw. 
+L'inscription est gratuite mais **obligatoire** via le lien :
+[__Inscription__](https://evento.renater.fr/survey/11e-edition-mee-mode...-6jml76qw)
 
 L'inscription est possible jusqu'au 15 Avril 2022. 
 
@@ -16,7 +17,7 @@ Si vous désirez faire une présentation de vos travaux, envoyez nous votre prop
 A bientôt ! 
 
 -------------
-The registration is free but mandatory at : https://evento.renater.fr/survey/11e-edition-mee-mode...-6jml76qw. 
+The registration is free but mandatory at : [__Registration__](https://evento.renater.fr/survey/11e-edition-mee-mode...-6jml76qw) 
 
 The deadline is 15th of April 2022. 
 

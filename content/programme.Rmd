@@ -6,5 +6,7 @@ output: html_document
 ---
 
 Le seminaire se déroulera sur toute la journée du 20 Mai 2022 de 9h à 18h. 
-Le programme en cours de construction est disponible ci dessous. 
+Le programme en cours de construction et sera disponible sous peu. 
+Restez connecté ! 
+
 
