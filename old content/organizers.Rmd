@@ -1,0 +1,17 @@
+---
+title: "Organizers"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+**Josselin CLO**: I am a Ph.D. student specialized in evolution of plants mating system, with a focus on predominantly selfing species. I’m currently working at AGAP laboratory (Genetic Amelioration and Adaptation of Plants), supervised by [Dr. Joëlle Ronfort](https://www.researchgate.net/profile/Joelle_Ronfort) and [Dr. Laurène Gay](https://sites.google.com/site/evolutionarybiologylaurenegay/home). During my Ph.D., I am studying the emergence of heterosis and outbreeding depression in selfing species, and the potential role of rare outcrossing events on the evolutionary dynamics of predominantly selfing populations, both by experimental and theoretical investigations.
+
+**Maria MOIRON**: I am a Marie Skłodowska Curie Research Fellow at the CEFE-CNRS in Montpellier (France), working in collaboration with the Institute of Avian Biology in Wilhelmshaven (Germany). I study the evolutionary genetics of plasticity in a natural population of common terns (Sterna hirundo). In particular, I investigate how genetic variation in, and selection on, plasticity are shaped by environmental factors such as temperature, breeding density and food availability.
+
+**Auriane JONES**: I am a contract lecturer in fisheries ecology and biology at the  Rennes school of agronomy, working with the ecology and ecosystem health unit (UMR ESE). I am initially a benthic ecologist studying biogenic habitats structured by organisms know as «ecosystem engineers » (e.g. oysters, kelp). I am currently interested in understanding how anthropogenic disturbances affect trophic interactions in coastal ecosystems by investigating the effect of green tides on flatfish-invertebrate interactions.
+
+**Maximilien COSME**: I am a PhD student at AMAP joint research unit. My research is centred on the use of discrete-event modelling for describing socio-ecosystem dynamics. In particular, I am studying West-African savanna agroecosystems to uncover the various dynamic regimes these systems may encounter and the shifts between them. I am also discussing the epistemic value of describing ecosystems dynamics in terms of non-deterministic state-transition processes.

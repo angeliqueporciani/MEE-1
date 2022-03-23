@@ -1,0 +1,27 @@
+---
+title: "Inscription"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+L'inscription est gratuite mais **obligatoire** via le lien : https://evento.renater.fr/survey/11e-edition-mee-mode...-6jml76qw. 
+
+L'inscription est possible jusqu'au 15 Avril 2022. 
+
+Si vous désirez faire une présentation de vos travaux, envoyez nous votre proposition à l'adresse mail : mee.montpellier@gmail.com en indiquant votre nom, affiliation et le titre avec si possible un court résumé. 
+
+A bientôt ! 
+
+-------------
+The registration is free but mandatory at : https://evento.renater.fr/survey/11e-edition-mee-mode...-6jml76qw. 
+
+The deadline is 15th of April 2022. 
+
+If you want to present your work, please contact us at mee.montpellier@gmail.com
+Indicate your name, the institution your affiliate to and why you want to participate.
+
+See you soon!
+

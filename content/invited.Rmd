@@ -1,0 +1,22 @@
+---
+title: "Chercheurs invités"
+author: "Angelique Porciani"
+date: "3/23/2022"
+output: html_document
+---
+
+Nous avons le plaisir de vous annoncer la participation confirmée au séminaire __MEE 2022__  de : 
+
+
+[__Dr. Manuela Capello__](https://umr-marbec.fr/membre/manuela-capello/) [__(Marbec, IRD)__](https://umr-marbec.fr/) 
+
+[__Pr. Nicolas Loeille__](https://sites.google.com/site/nicolasloeuille/home?authuser=0) [__(Sorbonne Université)__](https://www.sorbonne-universite.fr/) 
+
+
+-----------------
+We are pleased to
+announce that the following speakers have already confirmed their participation at the __MEE 2022__ seminar :
+
+[__Dr. Manuela Capello__](https://umr-marbec.fr/membre/manuela-capello/) [__(Marbec, IRD)__](https://umr-marbec.fr/) 
+
+[__Pr. Nicolas Loeille__](https://sites.google.com/site/nicolasloeuille/home?authuser=0) [__(Sorbonne Université)__](https://www.sorbonne-universite.fr/) 

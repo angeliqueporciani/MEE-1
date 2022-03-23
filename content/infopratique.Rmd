@@ -1,0 +1,19 @@
+---
+title: "Informations pratiques"
+author: "Angelique Porciani"
+date: "3/23/2022"
+output: html_document
+---
+
+# MEE 2022 
+
+Le 11ème seminaire MEE se tiendra le 20 Mai 2022 à Montpellier sur le site Saint Charles de l'Université Paul Valery (Rue du Professeur Henri Serre). 
+
+Localisation sur Google map : https://goo.gl/maps/ggVC6NGRy7rcDouYA 
+
+Le repas ainsi que les pauses café sont offertes sous condition d'inscription au préalable via le formulaire : https://evento.renater.fr/survey/11e-edition-mee-mode...-6jml76qw
+
+
+# Contact 
+
+Pour toutes questions n'hésitez pas à nous contacter via l'adresse mail : mee.montpellier@gmail.com
