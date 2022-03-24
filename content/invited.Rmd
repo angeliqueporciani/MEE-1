@@ -7,7 +7,7 @@ output: html_document
 
 Nous avons le plaisir de vous annoncer la participation confirmée au séminaire __MEE 2022__  de : 
 
-![](/speacker2022MEE.png "Key note speakers 2022")
+![](/speaker2022.png){ width=70% }
 
 Liens vers leur page personelle : 
 
