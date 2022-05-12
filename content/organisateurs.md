@@ -9,7 +9,7 @@ output: html_document
 
 
 **Anjélica Leconte** : Doctorante à la Compagnie des amandes (bourse CIFRE), je suis accueillie au CEFE Montpellier et à l'INRAe Versailles.
-Je travaille sur l'identification des kairomones attractives du ravageur de l'amande *Eurytoma amygdali* en vue de la mise en place d'un moyen de biocontrôle.
+Je travaille sur l'identification des kairomones attractives du ravageur de l'amande Eurytoma amygdali en vue de la mise en place d'un moyen de biocontrôle.
 mail : anjelica.leconte@compagniedesamandes.com
 
 
