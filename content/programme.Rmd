@@ -7,5 +7,5 @@ output: html_document
 
 Le seminaire se déroulera le 20 Mai 2022 de 9h à 17h. 
 Le programme est disponible ! 
-[__Programme__](../MEE-programme.pdf)
+[__Programme__](/MEE-programme.pdf)
 
