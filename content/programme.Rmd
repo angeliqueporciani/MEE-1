@@ -5,7 +5,7 @@ date: "3/23/2022"
 output: html_document
 ---
 # Photo de Groupe
-La session 2022 du MEE a été très riches en échanges et présentations de qualités. 
+La session 2022 du MEE a été très riche en échanges et présentations de qualités. 
 Merci à tous pour votre participation et voici un petit souvenir de cette journée en photo. 
 A l'année prochaine ! 
 
